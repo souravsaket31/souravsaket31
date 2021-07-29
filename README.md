@@ -10,6 +10,18 @@ This is the place where I opensource stuff and push my POCs
 
 
 
+---
+
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/souravsaket31/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/ne.xt_element/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/souravsaket31" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.logodownload.org%2Ftwitter-logo%2F&psig=AOvVaw3aKWMpnjg0D8JCyiGIG2qm&ust=1627649298817000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPisxKSoiPICFQAAAAAdAAAAABAD" alt="Twitter"></a>
+
+</div>
+
+
+
 <!--
 
 ### Hi there 👋
