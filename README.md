@@ -6,7 +6,7 @@ This is the place where I opensource stuff and push my POCs
 - 🌱 I’m currently learning Spring Cloud, DevOps Tools
 - 💬 Ask me about anything related to Java/Spring Boot/Angular
 - 📫 How to reach me: [@souravsaket31](https://twitter.com/souravsaket31) 
-- ⚡ Fun fact: I :heart: 📸:
+- ⚡ Fun fact: I :heart: 📸 
 
 
 
