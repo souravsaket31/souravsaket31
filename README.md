@@ -10,8 +10,6 @@ This is the place where I opensource stuff and push my POCs
 
 
 
----
-
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/souravsaket31/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
