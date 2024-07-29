@@ -16,5 +16,5 @@ This is the place where I opensource stuff and push my POCs ✨
 	<a href="https://github.com/souravsaket31"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/souravsaket31/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/ne.xt_element/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/souravsaket31"><img src="https://icons8.com/icon/phOKFKYpe00C/x.png" alt="X"/></a>
+	<a href="https://twitter.com/souravsaket31"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="X"/></a>
 </p>
