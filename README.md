@@ -5,7 +5,7 @@ This is the place where I opensource stuff and push my POCs ✨
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Angular and AWS
 - 👯 I’m looking to collaborate on developing APIs
-- 💬 Ask me about anything related to Java / Spring Boot / Microservices / APIs
+- 💬 Ask me about anything related to Java / Spring Boot / Microservices / APIs Development
 - 📫 How to reach me: [@souravsaket31](https://twitter.com/souravsaket31)
 - 😄 Pronouns: Sakky
 - ⚡ Fun fact: I :heart: 📸 
@@ -18,22 +18,3 @@ This is the place where I opensource stuff and push my POCs ✨
 	<a href="https://www.instagram.com/ne.xt_element/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/souravsaket31"><img src="https://icons8.com/icon/phOKFKYpe00C/twitterx.png" alt="Twitter"/></a>
 </p>
-
-
-
-<!--
-
-### Hi there 👋
-**souravsaket31/souravsaket31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
