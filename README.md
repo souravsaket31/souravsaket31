@@ -3,7 +3,7 @@
 This is the place where I opensource stuff and push my POCs
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently AWS and Angular
+- 🌱 I’m currently learning Angular, AWS and NoSql
 - 💬 Ask me about anything related to Java/Spring Boot / Microservices / APIs
 - 📫 How to reach me: [@souravsaket31](https://twitter.com/souravsaket31) 
 - ⚡ Fun fact: I :heart: 📸 
