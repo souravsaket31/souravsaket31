@@ -7,7 +7,6 @@ This is the place where I opensource stuff and push my POCs ✨
 - 👯 I’m looking to collaborate on developing APIs
 - 💬 Ask me about anything related to Java / Spring Boot / Microservices / APIs Development
 - 📫 How to reach me: [@souravsaket31](https://twitter.com/souravsaket31)
-- 😄 Pronouns: Sakky
 - ⚡ Fun fact: I :heart: 📸 
 
 
