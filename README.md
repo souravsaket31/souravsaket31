@@ -3,12 +3,10 @@
 This is the place where I opensource stuff and push my POCs
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Spring Cloud, DevOps Tools
-- 💬 Ask me about anything related to Java/Spring Boot/Angular
+- 🌱 I’m currently AWS and Angular
+- 💬 Ask me about anything related to Java/Spring Boot / Microservices / APIs
 - 📫 How to reach me: [@souravsaket31](https://twitter.com/souravsaket31) 
 - ⚡ Fun fact: I :heart: 📸 
-
-
 
 
 ### Let's Connect :coffee:
